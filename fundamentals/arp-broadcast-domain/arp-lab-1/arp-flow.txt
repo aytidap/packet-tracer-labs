@@ -1,0 +1,3 @@
+PC1 bertanya "apa MAC (Media Access Control) Address kamu?" ke PC2
+PC2 membalas "ini adalah MAC Address saya" ke PC1
+PC1 membalas dengan mengirim paket ICMP (packet ping) ke PC2
